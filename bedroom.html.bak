@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Lab 5-1</title>
+<style type="text/css">
+<!--
+
+li.navlist {display: inline;
+list-style-type: none;}
+a {text-decoration: none;
+color: #333333;}
+a:hover {background: #333333;
+color: white;}
+-->
+</style>
+</head>
+
+<body>
+ 
+<div style="text-align: center">
+<img style="border-color: transparent" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgChkanuihhKVgblPBV2M13V6IBDnGGoykw&usqp=CAU" width="250" height="300" alt="Picture of gabriel rinier" usemap="#menubar" />
+   <h1> Activities </h1>
+
+
+</div>
+
+<div style="text-align: center">
+<ul>
+<li class="navlist"><a href="about gabriel rinier.html">About</a> &nbsp; &brvbar;  &nbsp;
+<li class="navlist"><a href="new9.html">Games</a> &nbsp;  &brvbar; &nbsp;
+<li class="navlist"><a href="new10.html">Activities</a> &nbsp;  &brvbar; &nbsp;
+<li class="navlist"><a href="new 13.html">Contact</a> &nbsp;  &brvbar; &nbsp;
+
+</ul>
+
+
+<map name="menubar" id="menubar">
+<area shape="rect" coords="17,103,120,208" href="sample.html" alt="Backgammon" />
+<area shape="rect" coords="153,109,225,204" href="sample.html" alt="Puzzles" />
+<area shape="poly" coords="285,110,330,110,356,158,330,208,286,208,256,158" href="sample.html" alt="Parcheesi" />
+<area shape="poly" coords="385,115,438,108,486,137,445,210,385,197" href="sample.html" alt="Poker" />
+<area shape="rect" coords="510,104,609,207" href="sample.html" alt="Dominoes" />
+</map>
+<p> When school is over i usually hang out with friends or work but most my free time is spent playing basketball </p>
+<p>What are your Favorite Activite outside of school?</p>
+
+<form>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">Sleeping</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">Basketball</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">Video Games</label>
+</form>
+  </div>
+ 
+</body>
+</html>

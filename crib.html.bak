@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Lab 5-1</title>
+<style type="text/css">
+<!--
+
+li.navlist {display: inline;
+list-style-type: none;}
+a {text-decoration: none;
+color: #333333;}
+a:hover {background: #333333;
+color: white;}
+-->
+</style>
+</head>
+
+<body>
+ 
+<div style="text-align: center">
+<img style="border-color: transparent" src="https://attachments.office.net/owa/gabriel.rinier%40greatoaks.com/service.svc/s/GetAttachmentThumbnail?id=AAMkADBmZWU0ZDlkLTAzMGQtNGMyYS1iM2IzLTk2NzE0OGNiOGYzOABGAAAAAAAardvzvNkXQY8YpZtG9XN4BwCtJoiYGwJyQYokEP5fAysfAAAAAAEJAACtJoiYGwJyQYokEP5fAysfAADfHHSRAAABEgAQALk6PYp8dg5HqDdOa0gumrQ%3D&thumbnailType=2&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkZBRDY1NDI2MkM2QUYyOTYxQUExRThDQUI3OEZGMUIyNzBFNzA3RTkiLCJ0eXAiOiJKV1QiLCJ4NXQiOiItdFpVSml4cThwWWFvZWpLdDRfeHNuRG5CLWsifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbSIsInVjIjoiYTM4NGM0OTc5NjQ1NGVjNTkwODJhMGI2ZjZmMzIxMmYiLCJzaWduaW5fc3RhdGUiOiJbXCJpbmtub3dubnR3a1wiLFwia21zaVwiXSIsInZlciI6IkV4Y2hhbmdlLkNhbGxiYWNrLlYxIiwiYXBwY3R4c2VuZGVyIjoiT3dhRG93bmxvYWRAOWJlYjg0NTEtZDVmMy00MjA4LWIwYTQtNWVhNWEzYmVkZmJkIiwiaXNzcmluZyI6IlNJUCIsImFwcGN0eCI6IntcIm1zZXhjaHByb3RcIjpcIm93YVwiLFwicHVpZFwiOlwiMTE1MzgwMTExOTQ1MjI2ODM4NVwiLFwic2NvcGVcIjpcIk93YURvd25sb2FkXCIsXCJvaWRcIjpcImJmM2ZmMTExLTk3NDEtNDM4MC05YmY2LTE3ZGFkNzVhMWE2ZlwiLFwicHJpbWFyeXNpZFwiOlwiUy0xLTUtMjEtMTAyMTE2NjgzOS0zNDAwODY0Nzg5LTkwMDkzNjE5LTMwMzQ5OTM4XCJ9IiwibmJmIjoxNjUxNjY5OTQ0LCJleHAiOjE2NTE2NzA1NDQsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEA5YmViODQ1MS1kNWYzLTQyMDgtYjBhNC01ZWE1YTNiZWRmYmQiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudHMub2ZmaWNlLm5ldEA5YmViODQ1MS1kNWYzLTQyMDgtYjBhNC01ZWE1YTNiZWRmYmQiLCJoYXBwIjoib3dhIn0.brFulAu13SJ3lw9bObZ5M_nRvnVkpKx003uDrq2wpq6mluayI5y6KAxGKoPI2qw3mscvHg5tNGXChFRDNat56SSlg3NuGbRoQtP3dJ_N4WW_RbiYswLbRyZOnFnRt1SYgjt3xX1fIRrJVTufYMRojJlIYKJFk3Yiga1KWKXx9pPGK_eQYQ_I4NmWPyfkVVUwpjwRCjSojX1IZ6sfUbpOrfE-IHh05xn2oQIhtJSdUAE4MKcyfwsY-TQkUYyKtNbSbHnJA7lz2hGGXR8EQz65JlupBHcq1LwuBDu6VLbfNXD_b_lKZ5XX9Fd_mIlS2omDK1eCi2s2ykQtZEIHeVOdGw&X-OWA-CANARY=NFjBLM0OwEOrKHSzZYv9_YDXp9HPLdoYTIQmzssuAuT7_TEnlPJAYqUc9rWr2GI55TznmxBrNWU.&owa=outlook.office365.com&scriptVer=20220408004.16&animation=true" width="250" height="300" alt="Picture of gabriel rinier" usemap="#menubar" />
+   <h1> gabriel rinier </h1>
+
+
+</div>
+
+<div style="text-align: center">
+<ul>
+<li class="navlist"><a href="crib.html">About</a> &nbsp; &brvbar;  &nbsp;
+<li class="navlist"><a href="living room.html">Games</a> &nbsp;  &brvbar; &nbsp;
+<li class="navlist"><a href="bedroom.html">Activities</a> &nbsp;  &brvbar; &nbsp;
+<li class="navlist"><a href="upstaris.html">Contact</a> &nbsp;  &brvbar; &nbsp;
+
+</ul>
+
+
+<map name="menubar" id="menubar">
+<area shape="rect" coords="17,103,120,208" href="sample.html" alt="Backgammon" />
+<area shape="rect" coords="153,109,225,204" href="sample.html" alt="Puzzles" />
+<area shape="poly" coords="285,110,330,110,356,158,330,208,286,208,256,158" href="sample.html" alt="Parcheesi" />
+<area shape="poly" coords="385,115,438,108,486,137,445,210,385,197" href="sample.html" alt="Poker" />
+<area shape="rect" coords="510,104,609,207" href="sample.html" alt="Dominoes" />
+</map>
+<p> Im 6,1 i play basketball for fun, i also play football sometimes i used to play for school back in my day.I like my classmates they are fun and helpfull..<p>
+  </div>
+ 
+</body>
+</html>
